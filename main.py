@@ -1,6 +1,5 @@
 import sys
 import sqlite3
-from types import NoneType
 
 from PyQt6 import uic
 from PyQt6.QtWidgets import QWidget, QApplication, QTableWidgetItem, QMessageBox
